@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Githubharrison slide!"
 ---
-it is a new content
+This is my dam good slide
 Use the left arrow to go back!
